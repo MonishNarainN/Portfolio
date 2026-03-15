@@ -142,6 +142,11 @@ const Projects = () => {
       title: "AI vs Human Voice Detector",
       desc: "ML system detecting AI-generated vs human voices to prevent voice fraud.",
       link: "https://github.com/MonishNarainN/AI-Voice-Detector-Human-or-AI-voice-.git"
+    },
+    {
+      title: "Tournament booking app",
+      desc: "Platform for users to browse and join tournaments with admin management for registrations, payments, and event details. Built with a modern tech stack for performance and type safety.",
+      link: "https://github.com/MonishNarainN/Tournament-app.git"
     }
   ];
 
