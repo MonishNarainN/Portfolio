@@ -147,6 +147,11 @@ const Projects = () => {
       title: "Tournament booking app",
       desc: "Platform for users to browse and join tournaments with admin management for registrations, payments, and event details. Built with a modern tech stack for performance and type safety.",
       link: "https://github.com/MonishNarainN/Tournament-app.git"
+    },
+    {
+      title: "WhatsApp Clone",
+      desc: "A feature-rich WhatsApp Web clone facilitating real-time communication. Includes secure email authentication, private messaging, and collaborative group chats. Built with the MERN stack (React, Node.js, Express, MongoDB) for a seamless, responsive user experience.",
+      link: "https://github.com/MonishNarainN/whatsapp-clone.git"
     }
   ];
 
